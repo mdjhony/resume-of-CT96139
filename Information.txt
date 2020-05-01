@@ -1,0 +1,31 @@
+Resume 
+
+
+Mohammad Nur Uddin
+Email: md.jhony@ymail.com
+Mobile: 01722768291
+
+
+Personal Information:
+
+	Father's Name : Md Ismail Hossain
+	Mothers's Name : Zahura Bhiuyan
+	Date of BirtH	: 22nd december, 1992
+	Gender		: Male
+	Blood Group	: O+
+	Matital Status	: Single
+
+Educational Information:
+		
+	Name of Course		Institite/Board			Result
+	BBA			Dhaka Commerce College		3.5
+	HSC			Dhaka  				4.8
+	SSC			Dhaka				4.75
+	Diploma	 		COders Trust Bangladesh	
+				
+Experiences : 	
+		
+	Job Title/Position	Institute		Working Time
+	Developer  		Cityshop               	2018
+	Marketing Director   	Bd Smart Sell 		2016
+	GPQC 			Shinest Group 		2015 to 2018
